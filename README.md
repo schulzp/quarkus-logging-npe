@@ -1,4 +1,4 @@
-# Quarkus 1.2.0 Logging Issue MWE
+# Quarkus 1.2.1 Logging Issue MWE
 
 1. `mvn clean package docker:build docker:run`
 2. Startup is suspended until debugger is connected on port `5005`
